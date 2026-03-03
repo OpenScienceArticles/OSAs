@@ -18,7 +18,7 @@
 - **Toplam Görüntülenme:** 32577
 - **Toplam İndirme:** 33797
 
-![OSAs](https://github.com/WhiteSymmetry/osas/blob/main/osas_stats_tr_en.png?raw=true)
+![OSAs](https://github.com/WhiteSymmetry/OSAs/blob/main/osas_stats_tr_en.png?raw=true)
 
 ---
 
