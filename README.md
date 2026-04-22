@@ -2,7 +2,7 @@
 
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
-# OSAs <img src="osas.jpg" alt="OSAs" align="right" height="140"/>
+# OSAs <img src="logo.jpg" alt="OSAs" align="right" height="140"/>
 
 ---
 <h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
