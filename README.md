@@ -21,10 +21,15 @@
 - **Toplam İndirme:** 40896
 
 📋 Yıllara Göre Detaylı Tablo:
+
  Yıl  Yayın Sayısı  Toplam Views  Toplam Downloads  Ort. Views/Yayın  Ort. Downloads/Yayın
+ 
 2023             1           249               125        249.000000            125.000000
+
 2024             3           379               342        126.333333            114.000000
+
 2025            57         20622             18344        361.789474            321.824561
+
 2026            40         23146             22085        578.650000            552.125000
 
 
