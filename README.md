@@ -20,20 +20,14 @@
 - **Toplam Görüntülenme:** 44396
 - **Toplam İndirme:** 40896
 
-📋 Yıllara Göre Detaylı Tablo:
+| Year / Yıl | Publications / Yayın Sayısı | Total Views / Toplam Views | Total Downloads / Toplam Downloads | Avg Views per Publication / Ort. Views/Yayın | Avg Downloads per Publication / Ort. Downloads/Yayın |
+|------------|-----------------------------|----------------------------|------------------------------------|---------------------------------------------|----------------------------------------------------|
+| 2023      | 1                           | 249                        | 125                                | 249.000000                                  | 125.000000                                         |
+| 2024      | 3                           | 379                        | 342                                | 126.333333                                  | 114.000000                                         |
+| 2025      | 57                          | 20,622                     | 18,344                             | 361.789474                                  | 321.824561                                         |
+| 2026      | 40                          | 23,146                     | 22,085                             | 578.650000                                  | 552.125000                                         |
 
- Yıl  Yayın Sayısı  Toplam Views  Toplam Downloads  Ort. Views/Yayın  Ort. Downloads/Yayın
- 
-2023             1           249               125        249.000000            125.000000
-
-2024             3           379               342        126.333333            114.000000
-
-2025            57         20622             18344        361.789474            321.824561
-
-2026            40         23146             22085        578.650000            552.125000
-
-
-![OSAs](https://github.com/OpenScienceArticles/OSAs/blob/main/osas_stats_tr_en.png.png?raw=true)
+![OSAs](https://github.com/OpenScienceArticles/OSAs/blob/main/osas_stats_tr_en.png?raw=true)
 
 ---
 
