@@ -10,15 +10,15 @@
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
-| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-08-16 13:25:46<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 87<br>- **Total Views:** 32577<br>- **Total Downloads:** 33797 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-08-16 13:25:46<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 57<br>- **Toplam Görüntülenme:** 32577<br>- **Toplam İndirme:** 33797 |
+| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2026-04-22<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 101<br>- **Total Views:** 44396<br>- **Total Downloads:** 40896 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2026-04-22<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 101<br>- **Toplam Görüntülenme:** 44396<br>- **Toplam İndirme:** 40896 |
 ---
 
 # 📊 Bilginomi Topluluğu İstatistik Raporu
 
 ## 📦 Genel İstatistikler
-- **Toplam Makale Sayısı:** 87
-- **Toplam Görüntülenme:** 32577
-- **Toplam İndirme:** 33797
+- **Toplam Makale Sayısı:** 101
+- **Toplam Görüntülenme:** 44396
+- **Toplam İndirme:** 40896
 
 ![OSAs](https://github.com/WhiteSymmetry/osas/blob/main/osas_stats_tr_en.png?raw=true)
 
