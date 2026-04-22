@@ -6,19 +6,13 @@
 
 ---
 <h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
-<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2026-02-07 13:25:46</p>
+<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2026-02-07</p>
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
 | **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2026-04-22<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 101<br>- **Total Views:** 44396<br>- **Total Downloads:** 40896 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2026-04-22<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 101<br>- **Toplam Görüntülenme:** 44396<br>- **Toplam İndirme:** 40896 |
+
 ---
-
-# 📊 Bilginomi Topluluğu İstatistik Raporu
-
-## 📦 Genel İstatistikler
-- **Toplam Makale Sayısı:** 101
-- **Toplam Görüntülenme:** 44396
-- **Toplam İndirme:** 40896
 
 | Year / Yıl | Publications / Yayın Sayısı | Total Views / Toplam Views | Total Downloads / Toplam Downloads | Avg Views per Publication / Ort. Views/Yayın | Avg Downloads per Publication / Ort. Downloads/Yayın |
 |------------|-----------------------------|----------------------------|------------------------------------|---------------------------------------------|----------------------------------------------------|
@@ -146,14 +140,7 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 ---
 ### 📘 Published Articles
 
-# 📊 Bilginomi Topluluğu İstatistik Raporu
-
-## 📦 Genel İstatistikler
-- **Toplam Makale Sayısı:** 87
-- **Toplam Görüntülenme:** 32577
-- **Toplam İndirme:** 33797
-
-## 📰 Son 200 Yayın
+## 📰 Yayınlanan Makaleler
 
 Total 101 publications found: Toplam 101 yayın bulundu.
 
