@@ -142,7 +142,7 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 
 ## 📰 Yayınlanan Makaleler
 
-Total 101 publications found: Toplam 101 yayın bulundu.
+Total 104 publications found: Toplam 104 yayın bulundu.
 
 1. Keçeci, M. (2026). Keçeci Curve: A Circular-Based Parametric Space-Filling Curve Family. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19885259
 2. Keçeci, M. (2026). Keçeci Eğrisi: Dairesel Temelli Parametrik Bir Uzay Doldurma Eğrisi Âilesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19796065
