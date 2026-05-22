@@ -138,6 +138,13 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 - Bu bilgileri lütfen referanslar bölümüne ekleyiniz.
   
 ---
+
+**Google Scholar:  Open Science Articles (OSAs)**
+
+https://scholar.google.com/citations?hl=en&user=oCzePg4AAAAJ
+
+---
+
 ### 📘 Published Articles
 
 ## 📰 Yayınlanan Makaleler
