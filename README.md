@@ -288,7 +288,9 @@ Total 130 publications found: Toplam 130 yayın bulundu.
 
 ---
 ## BibTeX
+---
 
+```bibtex
 @article {zenodo_23751138,
   author = {Keçeci, Mehmet},
   title = {NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler},
@@ -1586,6 +1588,7 @@ Total 130 publications found: Toplam 130 yayın bulundu.
   url = {https://zenodo.org/records/15234044},
   note = {Concept DOI: 10.5281/zenodo.15209607}
 }
+```
 
 ---
 
