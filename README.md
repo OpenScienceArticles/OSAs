@@ -1,16 +1,20 @@
 # 📘 Open Science Articles (OSAs): Open Sci. Artic.(OSAs)
 
+---
+
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
+
+---
 
 # OSAs <img src="https://github.com/OpenScienceArticles/OSAs/blob/main/logo.jpg" alt="OSAs" align="right" height="140"/>
 
 ---
-<h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
+<h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABMr) Topluluğu</h2>
 <p><strong>Last Updated / Güncellenme Zamanı:</strong> 2026-10-30</p>
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
-| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2026-10-30<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 130<br>- **Total Views:** 77435<br>- **Total Downloads:** 71852 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2026-10-30<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 130<br>- **Toplam Görüntülenme:** 77435<br>- **Toplam İndirme:** 71852 |
+| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2026-10-30<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 130<br>- **Total Views:** 77435<br>- **Total Downloads:** 71852 | **📊 Açık Bilim Makaleleri (ABMr) Topluluğu**<br>**Güncellenme Zamanı:** 2026-10-30<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 130<br>- **Toplam Görüntülenme:** 77435<br>- **Toplam İndirme:** 71852 |
 
 ---
 
@@ -80,14 +84,14 @@ Please apply the following updates:
 ---
 ---
 
-## 📘 Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM)
+## 📘 Open Science Articles (OSAs): Açık Bilim Makaleleri (ABMr)
 
-### [Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM) Topluluk Linki](https://zenodo.org/communities/bilginomi/records)
+### [Open Science Articles (OSAs): Açık Bilim Makaleleri (ABMr) Topluluk Linki](https://zenodo.org/communities/bilginomi/records)
 
 ---
 ### ⚠️ Bilimsel Bilgi Herkese Açık Olmalı
 
-Bilimsel ilerleme toplumun ortak mirasıdır. Açık Bilim Makaleleri (ABM), araştırmaların tüm dünyaya açık, ücretsiz ve engelsiz olarak erişilebilmesini sağlar. Bu sayede öğrenciler, araştırmacılar ve meraklıları bilgiye doğrudan ulaşabilir, yenilik teşviki artar ve toplumsal fayda maksimize edilir.
+Bilimsel ilerleme toplumun ortak mirasıdır. Açık Bilim Makaleleri (ABMr), araştırmaların tüm dünyaya açık, ücretsiz ve engelsiz olarak erişilebilmesini sağlar. Bu sayede öğrenciler, araştırmacılar ve meraklıları bilgiye doğrudan ulaşabilir, yenilik teşviki artar ve toplumsal fayda maksimize edilir.
 
 ---
 ### 📝 Hakemlik Süreci
