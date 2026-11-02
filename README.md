@@ -153,7 +153,7 @@ https://scholar.google.com/citations?hl=en&user=oCzePg4AAAAJ
 
 ## 📰 Yayınlanan Makaleler
 
-Total 130 publications found: Toplam 130 yayın bulundu.
+Total 131 publications found: Toplam 131 yayın bulundu.
 
 1. Keçeci, M. (2026). Topological Interface Engineering in Weyl--Superconductor Heterostructures: Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23885556
 1. NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler https://doi.org/10.5281/zenodo.23751138
@@ -292,6 +292,19 @@ Total 130 publications found: Toplam 130 yayın bulundu.
 ---
 
 ```bibtex
+@misc{kececi_2026_23885556,
+  author       = {Keçeci, Mehmet},
+  title        = {Topological Interface Engineering in Weyl--
+                   Superconductor Heterostructures: Emergent Majorana
+                   Arcs, Non-Abelian Braiding, and K-Theory
+                   Classification via the Stratum Model
+                  },
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.23885556},
+  url          = {https://doi.org/10.5281/zenodo.23885556},
+}
 @article {zenodo_23751138,
   author = {Keçeci, Mehmet},
   title = {NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler},
