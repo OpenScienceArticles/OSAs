@@ -294,7 +294,7 @@ Total 131 publications found: Toplam 131 yayın bulundu.
 ```bibtex
 @misc{kececi_2026_23885556,
   author       = {Keçeci, Mehmet},
-  title        = {Topological Interface Engineering in Weyl--
+  title        = {Topological Interface Engineering in Weyl–
                    Superconductor Heterostructures: Emergent Majorana
                    Arcs, Non-Abelian Braiding, and K-Theory
                    Classification via the Stratum Model
